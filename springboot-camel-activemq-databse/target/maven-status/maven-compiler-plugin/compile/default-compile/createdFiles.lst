@@ -1,0 +1,5 @@
+sample\camel\DatabaseService.class
+sample\camel\SampleAmqApplication.class
+sample\camel\Employee.class
+sample\camel\SampleAutowiredAmqRoute.class
+sample\camel\BooksTable.class
